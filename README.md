@@ -1,4 +1,4 @@
-# MyFirstApp
+# Angular Routing on a simple app with home/servers/users and a fake authorization
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
